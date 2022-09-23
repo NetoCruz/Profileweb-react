@@ -16,7 +16,7 @@ const Sidebar = () =>(
         <Link className='logo' to="/">
             <img src={Logos} alt="logo"/> ;
             <img className='sub-logo' src={Logosubtitle} alt="logo"/> ;
-            <h1>20:31</h1>
+            <h1>30:18</h1>
         </Link>
         <nav>
             <NavLink exact="true" activeclassname="active" to="/">
